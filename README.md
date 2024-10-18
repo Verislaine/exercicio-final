@@ -3,6 +3,7 @@
 O minicurso é concebido para alunos iniciantes de mestrado em economia oferecendo uma introdução essencial às habilidades de programação necessárias para realizar análises econômicas contemporâneas. Este minicurso prático utiliza linguagens de programação chave como R, Python, MATLAB e Stata que são fundamentais no ambiente acadêmico e profissional de economia.
 
 Linguagem: Python e R
+
 Atividade proposta pelo Prof. Dr. Ricardo Aguirre Leal (PPGE/FURG)
 
 Exercício 1: Cálculo do VPL no R
